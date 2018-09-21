@@ -1,2 +1,2 @@
 # ChemX-app
-Android app.
+Java version of the loved android app.
